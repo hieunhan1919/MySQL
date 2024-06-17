@@ -1,0 +1,23 @@
+Q1: Check mobile features and price list
+Q2: Find out the price of 5 most expensive phones
+Q3: Find out the price of 5 most cheapest phones
+Q4: List of top 5 Samsung phones with price and all features
+Q5: Must have android phone list then top 5 High price android phones
+Q6: Must have android phone list then top 5 lower price android phones
+Q7: Must have IOS phone list then top 5 High price lOS phones
+Q8: Must have lOS phone list then top 5 lower price IOS phones
+Q9: write a query which phone support 5g and also top 5 phone with 5g support
+Q10: Total price of all mobile is to be found with brand name
+
+
+
+Q1: Kiểm tra tính năng di động và bảng giá
+Q2: Tìm hiểu giá 5 chiếc điện thoại đắt nhất
+Q3: Tìm hiểu giá 5 chiếc điện thoại rẻ nhất
+Q4: Danh sách top 5 điện thoại Samsung có giá thành và đầy đủ tính năng
+Q5: Phải có danh sách điện thoại android thì top 5 điện thoại android giá cao
+Q6: Phải có danh sách điện thoại android thì top 5 android giá thấp hơn những cái điện thoại
+Q7: Phải có danh sách điện thoại iOS thì top 5 điện thoại lOS giá cao
+Q8: Phải có danh sách điện thoại lOS thì top 5 điện thoại iOS giá thấp hơn
+Q9: Viết câu hỏi về điện thoại nào hỗ trợ 5g và top 5 điện thoại hỗ trợ 5g
+Q10: Tổng giá của tất cả các thiết bị di động đều có thương hiệu

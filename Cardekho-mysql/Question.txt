@@ -1,0 +1,25 @@
+Q1:Read Cars data.
+Q2:Total Cars: To get a count of total records
+Q3:The manager asked the employee How many cars will be available in 2023?
+Q4:The manager asked the employee How many cars is available in 2020,2021,2022
+Q5:Clint asked me to print the total of all cars by year. I don't see all the details.
+Q6:Clint asked to car dealer agent How many diesel cars will there be in 2020?
+Q7: Clint requested a car dealer agent How many petrol cars will there be in 2020?
+Q8: The manager told the employee to give a print All the fuel cars (petrol, diesel, and CNG) come by all year.
+Q9: Manager said there were more than 100 cars in a given year, which year had more than 100 cars?
+Q10: The manager said to the employee All cars count details between 2015 and 2023; we need a complete list.
+Q11: The manager said to the employee All cars details between 2015 to 2023 we need complete list
+
+
+Q1: Đọc dữ liệu Ô tô.
+Câu 2:Tổng số ô tô: Để đếm tổng số bản ghi
+Câu 3: Người quản lý hỏi nhân viên sẽ có bao nhiêu chiếc ô tô vào năm 2023?
+Câu 4: Người quản lý hỏi nhân viên Có bao nhiêu chiếc ô tô vào năm 2020,2021,2022
+Câu 5: Clint yêu cầu tôi in tổng số ô tô theo năm. Tôi không thấy tất cả các chi tiết.
+
+Câu 6: Clint hỏi đại lý ô tô sẽ có bao nhiêu ô tô chạy động cơ diesel vào năm 2020?
+Câu 7: Clint hỏi đại lý ô tô sẽ có bao nhiêu ô tô chạy xăng vào năm 2020?
+Câu 8: Người quản lý yêu cầu nhân viên đưa ra một bản in Tất cả các ô tô sử dụng nhiên liệu (xăng, dầu diesel và CNG) đều được sản xuất quanh năm.
+Câu 9: Giám đốc cho biết có hơn 100 ô tô trong một năm, năm nào có hơn 100 ô tô?
+Câu 10: Người quản lý nói với nhân viên Tất cả các chi tiết về ô tô đều được tính từ năm 2015 đến năm 2023; chúng ta cần một danh sách đầy đủ.
+Câu 11: Người quản lý nói với nhân viên Tất cả thông tin chi tiết về xe ô tô từ năm 2015 đến năm 2023 chúng tôi cần danh sách đầy đủ
